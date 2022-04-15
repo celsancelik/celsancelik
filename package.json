@@ -1,0 +1,22 @@
+{
+  "name": "celsancelik",
+  "version": "1.0.0",
+  "description": "demo nodejs api v0.0.00001",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celsancelik/celsancelik.git"
+  },
+  "author": "HY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celsancelik/celsancelik/issues"
+  },
+  "homepage": "https://github.com/celsancelik/celsancelik#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
